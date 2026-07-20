@@ -1899,7 +1899,6 @@ The project has a complete architecture and most features are implemented, but i
 
 - **GitHub**: [https://github.com/KaroJunior/scoutflow](https://github.com/KaroJunior/scoutflow)
 - **Issues**: [https://github.com/KaroJunior/scoutflow/issues](https://github.com/KaroJunior/scoutflow/issues)
-- **Discussions**: [https://github.com/KaroJunior/scoutflow/discussions](https://github.com/KaroJunior/scoutflow/discussions)
 
 ---
 
