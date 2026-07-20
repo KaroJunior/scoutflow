@@ -1,0 +1,31 @@
+2026-07-19 20:37:50 [INFO] 🔧 ScoutFlow Development Check {"service":"scoutflow"}
+2026-07-19 20:37:50 [INFO] Created sessions directory: ./sessions {"service":"scoutflow"}
+2026-07-19 20:37:50 [INFO] ✅ Startup validation passed {"service":"scoutflow"}
+2026-07-19 20:39:08 [INFO] 🚀 Starting ScoutFlow... {"service":"scoutflow"}
+2026-07-19 20:39:08 [INFO] ✅ Startup validation passed {"service":"scoutflow"}
+2026-07-19 20:39:08 [INFO] Loaded Firebase credentials from file {"service":"scoutflow"}
+2026-07-19 20:39:43 [INFO] ✅ Firebase initialized successfully {"service":"scoutflow"}
+2026-07-19 20:48:37 [INFO] 🚀 Starting ScoutFlow... {"service":"scoutflow"}
+2026-07-19 20:48:37 [INFO] ✅ Startup validation passed {"service":"scoutflow"}
+2026-07-19 20:48:38 [INFO] Loaded Firebase credentials from file {"service":"scoutflow"}
+2026-07-19 20:49:02 [INFO] ✅ Firebase initialized successfully {"service":"scoutflow"}
+2026-07-19 20:49:02 [INFO] Storage adapter initialized {"service":"scoutflow"}
+2026-07-19 20:49:02 [INFO] Command registry initialized with 5 commands {"service":"scoutflow"}
+2026-07-19 20:58:57 [INFO] 🚀 Starting ScoutFlow... {"service":"scoutflow"}
+2026-07-19 20:58:57 [INFO] ✅ Startup validation passed {"service":"scoutflow"}
+2026-07-19 20:58:57 [INFO] Loaded Firebase credentials from file {"service":"scoutflow"}
+2026-07-19 20:59:09 [INFO] ✅ Firebase initialized successfully {"service":"scoutflow"}
+2026-07-19 20:59:09 [INFO] Storage adapter initialized {"service":"scoutflow"}
+2026-07-19 20:59:09 [INFO] Command registry initialized with 5 commands {"service":"scoutflow"}
+2026-07-19 21:15:20 [INFO] 🚀 Starting ScoutFlow... {"service":"scoutflow"}
+2026-07-19 21:15:21 [INFO] ✅ Startup validation passed {"service":"scoutflow"}
+2026-07-19 21:15:21 [INFO] Loaded Firebase credentials from file {"service":"scoutflow"}
+2026-07-19 21:15:30 [INFO] ✅ Firebase initialized successfully {"service":"scoutflow"}
+2026-07-19 21:15:30 [INFO] Storage adapter initialized {"service":"scoutflow"}
+2026-07-19 21:15:30 [INFO] Command registry initialized with 5 commands {"service":"scoutflow"}
+2026-07-19 21:21:55 [INFO] 🚀 Starting ScoutFlow... {"service":"scoutflow"}
+2026-07-19 21:21:55 [INFO] ✅ Startup validation passed {"service":"scoutflow"}
+2026-07-19 21:21:55 [INFO] Loaded Firebase credentials from file {"service":"scoutflow"}
+2026-07-19 21:22:12 [INFO] ✅ Firebase initialized successfully {"service":"scoutflow"}
+2026-07-19 21:22:12 [INFO] Storage adapter initialized {"service":"scoutflow"}
+2026-07-19 21:22:12 [INFO] Command registry initialized with 5 commands {"service":"scoutflow"}

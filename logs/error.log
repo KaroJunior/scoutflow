@@ -1,0 +1,5 @@
+2026-07-19 20:39:43 [ERROR] Failed to initialize Telegram bot: getCommandRegistry is not a function {"service":"scoutflow"}
+TypeError: getCommandRegistry is not a function
+    at initializeBot (/Users/juniorkaro/Documents/Projects/ScoutFlow (Telegram Bot)/src/bot.js:38:29)
+    at ScoutFlow.start (/Users/juniorkaro/Documents/Projects/ScoutFlow (Telegram Bot)/src/app.js:44:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
